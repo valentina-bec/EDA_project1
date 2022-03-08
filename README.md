@@ -5,7 +5,7 @@
 <br>
 
 Thomas Hansen <br>
-![Mr. Hansen](pictures/tomas_hansen.jpg) <!-- from : https://this-person-does-not-exist.com/en >
+![Mr. Hansen](pictures/tomas_hansen.jpg) <!-- from : https://this-person-does-not-exist.com/en -->
 
 - has 5 kids
 - has no money
