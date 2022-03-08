@@ -1,18 +1,37 @@
 # Eploratory Data Analsis:
-## Real State: King Country House Prices
+## Data Source and Context
 
-<br>
-<br>
+### Content 
 
-Thomas Hansen <br>
-![Mr. Hansen](pictures/tomas_hansen.jpg) <!-- from : https://this-person-does-not-exist.com/en -->
+Since the real estate market is becoming confusing we want to help people find a light at the end of the tunnel in the desert of data and maybe also a home.
+### Data
+ You will use the King County Housing Data: This dataset contains information about home sales in King County (USA).
+ 
+ * [data structure](column_names.md)
+ * [data exploration](EDA_exploration.ipynb)
 
-- has 5 kids
-- has no money
-- wants nice (social) neighborhood
-- he wants to buy a house iin seatle
-    - when
-    - where
+
+
+*Real State: King Country House Prices* 
+
+### Stakeholder
+* [Mr.Thomas](data/thomas_hansen.md)
+### Inspiration
+* where can you find the nicest neighbors
+* what are the best times to buy a real state
+* 
+
+#### Acknowledgment 
+
+Thank you to neuefische for the challenge. 
+
+
+
+
+
+
+
+
 
 
     
