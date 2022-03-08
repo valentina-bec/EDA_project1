@@ -1,8 +1,26 @@
 # Eploratory Data Analsis:
 ## Real State: King Country House Prices
 
-Template for creating ds simple projects
+<br>
+<br>
 
+Thomas Hansen <br>
+![Mr. Hansen](pictures/tomas_hansen.jpg) <!-- from : https://this-person-does-not-exist.com/en >
+
+- has 5 kids
+- has no money
+- wants nice (social) neighborhood
+- he wants to buy a house iin seatle
+    - when
+    - where
+
+
+    
+<br>
+<br>
+<br>    
+    
+________________
 ## Requirements
 
 - pyenv
