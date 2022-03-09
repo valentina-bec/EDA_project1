@@ -1,4 +1,4 @@
-# Eploratory Data Analsis:
+# Exploratory Data Analysis:
 ## Data Source and Context
 
 ### Content 
