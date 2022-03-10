@@ -5,7 +5,7 @@
 
 Since the real estate market is becoming confusing we want to help people find a light at the end of the tunnel in the desert of data and maybe also a home.
 ### Data
- You will use the King County Housing Data: This dataset contains information about home sales in King County (USA).
+ I use the King County Housing Data: This dataset contains information about home sales in King County (USA).
  
  * [data structure](column_names.md)
  * [data exploration](EDA_exploration.ipynb)
@@ -17,9 +17,13 @@ Since the real estate market is becoming confusing we want to help people find a
 ### Stakeholder
 * [Mr.Thomas](data/thomas_hansen.md)
 ### Inspiration
-* where can you find the nicest neighbors
-* what are the best times to buy a real state
-* 
+* What should Mr. Hansen to look for to find a house :house: or maybe he will have to settle for a tent?
+  * what about the house size?     :circus_tent:   or    :tent:
+  * what about the condition of the house?   :derelict_house:
+  * what about the location? 
+
+
+* let's have a look :female_detective  [EDA](EDA.ipynb)
 
 #### Acknowledgment 
 
@@ -40,12 +44,13 @@ Thank you to neuefische for the challenge.
 <br>    
     
 ________________
-## Requirements
+## Settings
+### Requirements
 
 - pyenv
 - python==3.9.4
 
-## Setup
+### Setup
 
 For this purpose you use following commands:
 
