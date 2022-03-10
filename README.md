@@ -23,7 +23,7 @@ Since the real estate market is becoming confusing we want to help people find a
   * what about the location? 
 
 
-* let's have a look :female_detective  [EDA](EDA.ipynb)
+* let's have a look :female_detective:  [EDA](EDA.ipynb)
 
 #### Acknowledgment 
 
